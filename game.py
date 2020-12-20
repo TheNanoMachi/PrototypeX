@@ -80,3 +80,4 @@ class Inert:
     def move_inert(self):
         #move towards the player
         pass
+        
